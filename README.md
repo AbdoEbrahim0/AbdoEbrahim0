@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=AbdoEbrahim0&color=brightgreen)
 ## Hi there 👋
 ![Codewars](https://github.r2v.ch/codewars?user=AbdoEbrahim0&top_languages=true&theme=gradient&animation=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdoEbrahim0&theme=default&show_icons=true&hide_border=true&count_private=true)
