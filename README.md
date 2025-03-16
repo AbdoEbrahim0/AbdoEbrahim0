@@ -1,4 +1,5 @@
-![abdoebrahim0's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=abdoebrahim0)
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=abdoebrahim0&theme=dark)](https://github.com/abdoebrahim0/leetcode-stats)
 ![](https://komarev.com/ghpvc/?username=AbdoEbrahim0&color=brightgreen)
 ## Hi there 👋
 ![Codewars](https://github.r2v.ch/codewars?user=AbdoEbrahim0&top_languages=true&theme=gradient&animation=true)
