@@ -1,7 +1,8 @@
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=abdoebrahim0&theme=dark)](https://github.com/abdoebrahim0/leetcode-stats)
 ![](https://komarev.com/ghpvc/?username=AbdoEbrahim0&color=brightgreen)
+
 ## Hi there 👋
+![LeetCode](http://34.93.126.129:8000/abdoebrahim0)
 ![Codewars](https://github.r2v.ch/codewars?user=AbdoEbrahim0&top_languages=true&theme=gradient&animation=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdoEbrahim0&theme=default&show_icons=true&hide_border=true&count_private=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdoEbrahim0&theme=default&show_icons=true&hide_border=true&layout=compact)
