@@ -1,6 +1,6 @@
 
 ![](https://komarev.com/ghpvc/?username=AbdoEbrahim0&color=brightgreen)
-![LeetCode] (http://34.93.126.129:8000/abdoebrahim0/)
+![leetCode](https://leetcode-solved-problems.vercel.app/api?username={abdoebrahim0}&name={abdoebrahim0})
 ## Hi there 👋
 ![LeetCode](http://34.93.126.129:8000/abdoebrahim0)
 ![Codewars](https://github.r2v.ch/codewars?user=AbdoEbrahim0&top_languages=true&theme=gradient&animation=true)
