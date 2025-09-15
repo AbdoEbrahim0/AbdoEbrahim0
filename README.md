@@ -11,7 +11,7 @@
 <!--
 <img src="https://streak-stats.demolab.com?user=AbdoEbrahim0&theme=default&hide_border=true" alt="AbdoEbrahim0's Streak in Github" />
 --> 
- # replace username with your own or change theme
+ # Contribution Graph Activity
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=#AbdoEbrahim0&theme=dracula&hide_border=true)
 
 <!--
