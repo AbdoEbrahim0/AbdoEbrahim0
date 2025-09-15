@@ -26,7 +26,6 @@
 --> 
 
  # Contribution Graph Activity
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=AbdoEbrahim0&theme=dracula&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdoEbrahim0&theme=dracula&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
 
 
