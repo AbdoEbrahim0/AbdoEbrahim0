@@ -4,8 +4,7 @@
 # LeetCode & CodeWars Info 
 
 <!--
-![LeetCode Stats](https://leetcard.jacoblin.cool/abdoebrahim0?theme=dark&font=Martel%20Sans&ext=heatmap)
-![Codewars](https://github.r2v.ch/codewars?user=AbdoEbrahim0&top_languages=true&theme=gradient&animation=true)
+![LeetCode Stats](https://leetcard.jacoblin.cool/abdoebrahim0?theme=dark&font=Martel%20Sans&ext=heatmap) ![Codewars](https://github.r2v.ch/codewars?user=AbdoEbrahim0&top_languages=true&theme=gradient&animation=true)
 -->
 <img src="https://leetcard.jacoblin.cool/abdoebrahim0?theme=dark&font=Martel%20Sans&ext=heatmap" alt="LeetCode Stats" width="40%"/>
 
