@@ -8,11 +8,21 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdoEbrahim0&theme=default&show_icons=true&hide_border=true&count_private=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdoEbrahim0&theme=default&show_icons=true&hide_border=true&layout=compact)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AbdoEbrahim0&theme=dark)
+
+
+## Stats📈
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdoEbrahim0&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="#your-username" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbdoEbrahim0&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="#your-username" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdoEbrahim0&theme=highcontrast&hide_border=true" alt="#your-username" />
+</p>
+
 <!--
 <img src="https://streak-stats.demolab.com?user=AbdoEbrahim0&theme=default&hide_border=true" alt="AbdoEbrahim0's Streak in Github" />
 --> 
+
  # Contribution Graph Activity
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=#AbdoEbrahim0&theme=dracula&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AbdoEbrahim0&theme=dracula&hide_border=true)
 
 <!--
 **AbdoEbrahim0/AbdoEbrahim0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
