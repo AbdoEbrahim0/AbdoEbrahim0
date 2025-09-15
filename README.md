@@ -3,8 +3,10 @@
 
 # LeetCode & CodeWars Info 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/abdoebrahim0?theme=dark&font=Martel%20Sans&ext=heatmap)
+<!--
 ![Codewars](https://github.r2v.ch/codewars?user=AbdoEbrahim0&top_languages=true&theme=gradient&animation=true)
-<img src="https://github.r2v.ch/codewars?user=AbdoEbrahim0&top_languages=true&theme=gradient&animation=true" alt="Codewars" width="44%"/>
+-->
+<img src="https://github.r2v.ch/codewars?user=AbdoEbrahim0&top_languages=true&theme=gradient&animation=true" alt="Codewars" width="55%"/>
 
 # GitHub Info 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdoEbrahim0&theme=default&show_icons=true&hide_border=true&count_private=true)
