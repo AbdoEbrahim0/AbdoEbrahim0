@@ -26,7 +26,8 @@
 --> 
 
  # Contribution Graph Activity
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AbdoEbrahim0&theme=dracula&hide_border=true)
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=AbdoEbrahim0&theme=dracula&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
+
 
 <!--
 **AbdoEbrahim0/AbdoEbrahim0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
