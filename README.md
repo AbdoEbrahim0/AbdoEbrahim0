@@ -11,6 +11,8 @@
 <!--
 <img src="https://streak-stats.demolab.com?user=AbdoEbrahim0&theme=default&hide_border=true" alt="AbdoEbrahim0's Streak in Github" />
 --> 
+ # replace username with your own or change theme
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=#AbdoEbrahim0&theme=dracula&hide_border=true)
 
 <!--
 **AbdoEbrahim0/AbdoEbrahim0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
